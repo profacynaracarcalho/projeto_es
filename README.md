@@ -12,8 +12,6 @@ Este repositório contém o desenvolvimento do projeto para a disciplina de Enge
 - Professor Responsável
 - Licença
 
-
-
 1. Sobre o Projeto
   
 
