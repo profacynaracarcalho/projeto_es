@@ -1,8 +1,11 @@
 # projeto\_es
 
-Projeto da disciplina Engenharia de Software
+projeto da disciplina engenharia de software
+Esta disciplina é do PPGEC
+Membros adicionados.
+cynara criou uma branch e criou um arquivo txt com informações sobre ela.
 
 
-- Isabella Costa criou o arquivo isabella-costa.txt
 
+jessika criou o arquivo apresentacao\_jessika.md
 
