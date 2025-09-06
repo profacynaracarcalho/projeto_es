@@ -3,7 +3,8 @@ Projeto da Disciplina de Engenharia de Software - PPGEC
 
 Este repositório contém o desenvolvimento do projeto para a disciplina de Engenharia de Software, parte do Programa de Pós-Graduação em Engenharia da Computação (PPGEC).
 
-       Sumário
+
+## Sumário
 - Sobre o Projeto
 - Tecnologias Utilizadas
 - Configuração do Ambiente de Desenvolvimento
@@ -57,3 +58,12 @@ Este repositório contém o desenvolvimento do projeto para a disciplina de Enge
        Programa: PPGEC
 
 7. Licença -> Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
+
+## Histórico de Alterações
+* Cynara criou o arquivo cynara.txt
+* Jéssika-Rufino criou o arquivo apresentacao_jessika.txt
+* Isabella Costa criou o arquivo isabella-costa.txt
+
+
