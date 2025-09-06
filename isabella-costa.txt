@@ -1,0 +1,12 @@
+ Apresentação - Isabella Costa
+
+Olá, meu nome é Isabella Costa.  
+Sou estudante do curso de Engenharia da Computação na UPE.  
+
+Tenho interesse em:
+- Desenvolvimento de software;
+- Projetos de sistemas embarcados e IoT;
+
+
+Atualmente, estou envolvida em projetos acadêmicos que unem hardware e software, 
+como sistemas de monitoramento e visão computacional.

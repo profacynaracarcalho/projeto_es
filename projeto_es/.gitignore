@@ -1,5 +1,3 @@
-# Jéssika criou o arquivo
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -182,7 +180,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-# Cynara criou o arquivo cynara.txt
-# Jéssika-Rufino criou o arquivo apresentacao_jessika.txt
-# Isabella Costa criou o arquivo isabella-costa.txt
-# Maria julia: criei uma branch e fiz minha apresentação no arquivo mariajulia.txt
+# Comentário: Maria Augusta editou o .gitignore
