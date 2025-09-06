@@ -1,5 +1,4 @@
-# projeto\_es
-Projeto da Disciplina de Engenharia de Software - PPGEC
+# Projeto da Disciplina de Engenharia de Software - PPGEC
 
 Este repositório contém o desenvolvimento do projeto para a disciplina de Engenharia de Software, parte do Programa de Pós-Graduação em Engenharia da Computação (PPGEC).
 
