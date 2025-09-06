@@ -1,5 +1,0 @@
-Olá! Meu nome é Jéssika Rufino.
-Sou mestranda de Engenharia de Software, na Universidade de Pernambuco.
-Minha área de pesquisa é Gestão de Projetos, mas estou gostando muito de conhecer um pouco mais sobre desenvolvimento, principalmente de aprender sobre Git e GiHub.
-
-
