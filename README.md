@@ -2,7 +2,8 @@
 
 projeto da disciplina engenharia de software
 Esta disciplina é do PPGEC
-Falta adicionar os membros do projeto.
+Membros adicionados.
+cynara criou uma branch e criou um arquivo txt com informações sobre ela.
 
 
 
