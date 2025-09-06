@@ -1,8 +1,3 @@
-# Projeto da Disciplina de Engenharia de Software - PPGEC
-
-Este repositório contém o desenvolvimento do projeto para a disciplina de Engenharia de Software, parte do Programa de Pós-Graduação em Engenharia da Computação (PPGEC).
-
-
 ## Sumário
 - Sobre o Projeto
 - Tecnologias Utilizadas
@@ -63,4 +58,5 @@ Este repositório contém o desenvolvimento do projeto para a disciplina de Enge
 * Jéssika-Rufino criou o arquivo apresentacao_jessika.txt
 * Isabella Costa criou o arquivo isabella-costa.txt
 * Maria julia: criei uma branch e fiz minha apresentação no arquivo mariajulia.txt
+
 
