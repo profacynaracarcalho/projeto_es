@@ -3,6 +3,6 @@
 Projeto da disciplina Engenharia de Software
 
 
-- Isabella Costa criou o arquivo isabella-costa.md
+- Isabella Costa criou o arquivo isabella-costa.txt
 
 
